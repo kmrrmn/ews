@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".menuItem.home.HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyle"/>
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/msg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="SORRY!!"
+            android:textSize="35sp"
+            android:layout_margin="20dp"
+            android:gravity="center_horizontal"
+            android:layout_above="@+id/conn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="25sp"
+            android:layout_above="@+id/mid_view"
+            android:id="@+id/conn"
+            android:gravity="center_horizontal"
+            android:text="No \n Internet Coonectivity "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <View
+            android:layout_centerInParent="true"
+            android:id="@+id/mid_view"
+            android:layout_width="0dp"
+            android:layout_height="0dp"/>
+
+        <TextView
+            android:layout_margin="15dp"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:layout_below="@+id/mid_view"
+            android:id="@+id/off"
+            android:text="Offline data is also not available"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+</FrameLayout>

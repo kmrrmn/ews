@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_978b2e09bad2118612aacd35a6de6fb7e1c5b24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.17\1a653d18a3e41fae66a473d172649a0625cff107\rxjava-1.0.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1a653d18a3e41fae66a473d172649a0625cff107">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\rxjava-1.0.17_7b3cfc11f0ae084f58d49a7c6362a843180a5d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_bb3fa9842c44ae70bd73326e6fa34e812f0b3541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="efe24b62af1a5189e611d402e9a8b7ece153098a">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\instant-run_52bc7219c8ea3af92ca3516cc9478de170ed0fa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_7db7843c0237512d7efe54d1d3927d6a7f285803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0effe613f974ba8d201bde3fe2e4bc50ba76102e">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_10732dfa63b77b8141b6bae5dc6cea33d258fe25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_d9c7938a36aea5148334587fd3d91481678d1fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_171bdafad24c3b33bf009f92e6c1cb1cc2bc682d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\.gradle\caches\modules-2\files-2.1\io.reactivex\rxandroid\0.23.0\9c437ce12df38b57fde4e3bb38ef6859f85ff737\rxandroid-0.23.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c437ce12df38b57fde4e3bb38ef6859f85ff737">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\rxandroid-0.23.0_ac03f7cc86b56ce2bc225f950da46bfdb73da52c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_2d303a3b71cfb7061ca41ed36ac8b4d2e5b01c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_803135bb99c8c665ff81fde1259a8db8fa8eeb59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\gson-2.3.1_0d142fb5d8676647805aab45cb41aaad8befa173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_11b8d2f2064da3d0c5237c9e620c08d9ea74c9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_d16dd71c723f427abae16be5c2858ca48d988a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_9fd4807e2742447a57d8d7a1f36825384d2f8ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rmn\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\rmn\AndroidStudioProjects\ews\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_32aff5ef93efe17d8059c646ff1fe75315d3d334.jar" />
+    </item>
+
+</items>

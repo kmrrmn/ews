@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+        android:id="@+id/news_gallery"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="News Gallery" />
+
+        <item
+            android:id="@+id/news_source"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Current News Source" />
+
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Current News Source" />
+
+
+    </group>
+
+    <item android:title="Communication">
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>
